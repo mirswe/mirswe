@@ -1,16 +1,20 @@
-## Hi there 👋
+# Ramir - @mirswe
 
-<!--
-**mirswe/mirswe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently an aspiring Software Engineer
 
-Here are some ideas to get you started:
+[![linkedin](https://img.shields.io/badge/-@ramirsw-161616?style=flat-square&labelColor=161616&logo=LinkedIn&logoColor=white&color=161616)](https://www.linkedin.com/in/ramirsw/)  
+![discord](https://img.shields.io/badge/-@tekksyn-161616?style=flat-square&labelColor=161616&logo=Discord&logoColor=white&color=161616)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Experience
+
+**Artifical Intelligence Content Writer** at _outlier.ai_ working on [AI Content Writing](https://outlier.ai/)
+
+## My Projects
+
+[Reddit Chat Bot](deadlink) - Chat Bot that is trained off of Reddit to answer prompts based on information from Reddit (_Python, SQL_)
+
+[Fashion Catalog Website](deadlink) - User based catalog website that showcases high end fashion. (_Javascript, HTML, CSS_)
+
+[Universal Media Downloader](deadlink) - Universal media downloader that downloads media from various places. (_Javascript, HTML, CSS, Python_)
+
+## Misc
