@@ -11,7 +11,7 @@ an aspiring full stack dev
 
 ## My Projects
 
-[Reddit Chat Bot](deadlink) - Chat Bot that is trained off of Reddit to answer prompts based on information from Reddit (_Python, SQL_)
+[Reddit Chat Bot](deadlink) - Chat Bot that is trained off of Reddit to answer prompts based on information from Reddit (_Python, huggingface, SQL_)
 
 [Fashion Catalog Website](deadlink) - User based catalog website that showcases high end fashion. (_Javascript, HTML, CSS_)
 
